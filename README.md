@@ -1,6 +1,6 @@
 #  FurMaTech 
 
-### The site is under maintenance. Thank you for your interest... 
+### This website is under maintenance. Thank you for your interest... 
 
 #### Contact: furkanbakkal@outlook.com.tr
 
