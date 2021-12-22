@@ -78,6 +78,7 @@ body{
     margin-top: 0.5rem;
     background-color: white;
     border-radius: 30px;
+    border-width:0;
 
     margin-left:auto;
     margin-right: auto;
@@ -120,6 +121,7 @@ body{
     margin-right: auto;
     height: 3rem;
     border-radius:1rem ;
+        border-width:0;
 
 }
 
