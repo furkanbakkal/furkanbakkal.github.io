@@ -1,0 +1,105 @@
+body, html {
+  height: 100%;
+}
+
+.hr-1 {
+  margin-top: 2rem;
+  border-style: none none dotted; 
+  color: #fff; 
+  background-color: #fff;
+  width: 20rem;
+  height: 5px;
+  border-radius: 5px;
+}
+
+
+.bg {
+  /* The image used */
+  background-image: url("https://cdn.dribbble.com/users/2093980/screenshots/4153082/windmill-small.gif");
+
+  /* Half height */
+  height: 100%;
+  background-color: grey;
+
+  /* Center and scale the image nicely */
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.name{
+  margin-top: 6rem;
+  font-size: 50px;
+}
+
+.title-holder {
+  top: 50%;
+  left: 40%;
+  position: absolute;
+}
+
+.word {
+  margin: auto;
+  margin-top: 2rem;
+  color: white;
+  font: 700 normal 2.5em 'tahoma';
+  font-size: 20px;
+  margin-bottom: 2rem;
+
+}
+
+.mybutton {
+  margin-top: 2rem;
+  margin-bottom: 2rem;
+}
+
+.footer {
+
+  background-color: white;
+  text-align: center;
+  
+}
+
+.footer-text{
+  margin-bottom: 10px;
+  margin-top: 10px;
+  font-size: 1rem;
+
+
+}
+
+.bottom-icon{
+  margin-top: 2rem;
+
+}
+
+.container {
+  margin-top: 2rem;
+  
+}
+
+
+
+/* If the screen size is 601px wide or more, set the font-size of <div> to 80px */
+@media screen and (min-width: 601px) {
+  .name {
+    font-size: 80px;
+  }
+
+  .container{
+    margin-top: 2rem;
+  }
+
+  .hr-1{
+    width: 500px;
+    margin-top: rem;
+  }
+
+}
+
+/* If the screen size is 600px wide or less, set the font-size of <div> to 30px */
+@media screen and (max-width: 600px) {
+  .name {
+    font-size: 50px;
+  }
+}
