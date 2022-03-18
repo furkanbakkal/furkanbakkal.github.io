@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Furkan</h1>
-<h3 align="center">I just pressing keys then computer makes stuff. That's all.</h3>
+<h3 align="center">I just randomly pressing keys then computer makes stuff. That's all.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=furkanbakkal&label=Profile%20views&color=0e75b6&style=flat" alt="furkanbakkal" /> </p>
 
 - 🌱 I’m currently learning **Machine Learning and Image Processing**
 
-- 👨‍💻 Freelancer [https://furkanbakkal.net/](https://furkanbakkal.net/)
+- 👨‍💻 Freelancer [https://www.fiverr.com/furmatech3d](https://www.fiverr.com/furmatech3d)
 
 - 📝 I regularly write articles on [https://akademi.robolinkmarket.com/author/furkan-bakkal/](https://akademi.robolinkmarket.com/author/furkan-bakkal/)
 
