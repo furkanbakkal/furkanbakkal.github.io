@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Furkan</h1>
-<h3 align="center">I just randomly pressing keys then computer makes stuff. That's all.</h3>
+<h3 align="center">I just pressing keys then computer makes stuff. That's all.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=furkanbakkal&label=Profile%20views&color=0e75b6&style=flat" alt="furkanbakkal" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=furkanbakkal" alt="furkanbakkal" /></a> </p>
 
 - 🌱 I’m currently learning **Machine Learning and Image Processing**
 
@@ -30,5 +28,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=furkanbakkal&show_icons=true&locale=en&layout=compact" alt="furkanbakkal" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=furkanbakkal&show_icons=true&locale=en" alt="furkanbakkal" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=furkanbakkal&" alt="furkanbakkal" /></p>
